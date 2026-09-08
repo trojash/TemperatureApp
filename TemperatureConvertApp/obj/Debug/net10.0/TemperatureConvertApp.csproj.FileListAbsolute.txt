@@ -1,0 +1,14 @@
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\bin\Debug\net10.0\TemperatureConvertApp.exe
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\bin\Debug\net10.0\TemperatureConvertApp.deps.json
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\bin\Debug\net10.0\TemperatureConvertApp.runtimeconfig.json
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\bin\Debug\net10.0\TemperatureConvertApp.dll
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\bin\Debug\net10.0\TemperatureConvertApp.pdb
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.AssemblyInfoInputs.cache
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.AssemblyInfo.cs
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.csproj.CoreCompileInputs.cache
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.dll
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\refint\TemperatureConvertApp.dll
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.pdb
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.genruntimeconfig.cache
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\ref\TemperatureConvertApp.dll

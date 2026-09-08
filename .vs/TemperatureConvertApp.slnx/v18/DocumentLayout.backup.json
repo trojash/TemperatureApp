@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonye\\OneDrive\\Documents\\Backend C# \u002B .NET Roadmap\\Projects\\TemperatureConvertApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF041C44-81B4-40BD-A994-5D3D28C47FD5}|TemperatureConvertApp\\TemperatureConvertApp.csproj|c:\\users\\tonye\\onedrive\\documents\\backend c# \u002B .net roadmap\\projects\\temperatureconvertapp\\temperatureconvertapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF041C44-81B4-40BD-A994-5D3D28C47FD5}|TemperatureConvertApp\\TemperatureConvertApp.csproj|solutionrelative:temperatureconvertapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tonye\\OneDrive\\Documents\\Backend C# \u002B .NET Roadmap\\Projects\\TemperatureConvertApp\\TemperatureConvertApp\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureConvertApp\\Program.cs",
+              "ToolTip": "C:\\Users\\tonye\\OneDrive\\Documents\\Backend C# \u002B .NET Roadmap\\Projects\\TemperatureConvertApp\\TemperatureConvertApp\\Program.cs*",
+              "RelativeToolTip": "TemperatureConvertApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T23:13:31.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
