@@ -12,3 +12,4 @@ C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\Temperature
 C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.pdb
 C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.genruntimeconfig.cache
 C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\ref\TemperatureConvertApp.dll
+C:\Users\tonye\OneDrive\Documents\Backend C# + .NET Roadmap\Projects\TemperatureConvertApp\TemperatureConvertApp\obj\Debug\net10.0\TemperatureConvertApp.sourcelink.json
